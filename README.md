@@ -1,11 +1,24 @@
-# Morumbi Service Website 💻
+<div align="center">
+  <img alt="MorumbiService" src="./banner.png"/>
+</div>
 
-O website foi desenvolvido para uma assistência técnica de reparos de eletrodomésticos, com o objetivo era transmitir profissionalismo e expandir o público.
+<h4 align="center">
+  Morumbi Service Website em construção... 🚧
+</h4>
 
-## Tecnologias Usadas
+### 💻 Sobre o projeto
 
-### O projeto teve como base as seguintes tecnologias:
+🌐 Morumbi Service – é uma loja de reparos em linha branca nacionais e importados, que atende todas as marcas.
 
-• [ReactJS](https://react.dev/)
+Os clientes poderão conectar-se com a empresa através do website, de forma a ter maior segurança e confiança aos serviços prestados, e entrar em contato em busca de informações e agendamentos.
 
-• [TailwindCSS](https://tailwindcss.com/)
+### 🎨 Layout
+
+O layout da aplicação estará disponível futuramente no Figma.
+
+### 🛠️ Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](React)
+- [Tailwind](TailwindCSS)
